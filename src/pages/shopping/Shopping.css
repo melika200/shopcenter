@@ -1,0 +1,31 @@
+.btnBuy{
+    all: unset;
+    border: 2px solid #6b6868;
+    padding: 5px;
+}
+.btnBuyy{
+    all: unset;
+    border: 2px solid #6b6868;
+    padding: 5px 13px;
+}
+.btnBuy:hover{
+    background-color: red;
+    border: none;
+
+}
+.btnBuyy:hover{
+    background-color: green;
+    border: none;
+
+}
+.dec:hover{
+background-color: yellow;
+border: none;
+}
+.basket{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 50%;
+    margin: 5rem auto;
+    padding: 20px 5px;
+    background-color: rgb(139, 161, 181);
+}

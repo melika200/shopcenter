@@ -1,0 +1,29 @@
+.CardContainer{
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 5px 15px 35px;
+    border: 2px solid #6c5ce7;
+    border-radius: 20px;
+    background-color: #fff;
+     padding: 30px auto;
+     text-align: center;
+     margin: 10% auto;
+
+}
+.btnArticle{
+    all: unset;
+    border: 2px solid #a29bfe;
+    padding: 10px 25px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    font-style: italic;
+    font-size: 13px;
+    align-items: center;
+    text-align: center;
+}
+.imgArticle{
+    width:300px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin-top: -30px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
